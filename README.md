@@ -1,4 +1,4 @@
-[[CV]](https://github.com/yjun3/cv)
+[[CV]](https://github.com/yjun3/cv/blob/main/main.pdf)
 
 I'm Youngjun Choi (alternatively, `yjun`), currently studying CS & Math at POSTECH.
 

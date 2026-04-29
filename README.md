@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![CodeForces Profile](https://cf.leed.at?id={yjun_})](https://codeforces.com/profile/{yjun_})
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yjun_&theme=dark)](https://codeforces.com/profile/yjun_)

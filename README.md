@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yjun_&theme=dark)](https://codeforces.com/profile/yjun_)
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=yjun_)](https://codeforces.com/profile/yjun_)
